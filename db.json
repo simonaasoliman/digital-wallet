@@ -1,0 +1,23 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Andy",
+      "email": "Andy009@gamil.com",
+      "phone": "01299654738",
+      "address": "4366  Luke Lane, Ardmore",
+      "authentication_type": "password",
+      "authentication_value": "hashed password"
+    },
+    {
+      "id": 2,
+      "name": "kero",
+      "email": "kerosoliman58@gmail.com",
+      "phone": null,
+      "password": "123456789",
+      "authentication_type": "eye-detection",
+      "address": "01287647396",
+      "authentication_value": ""
+    }
+  ]
+}

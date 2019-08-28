@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Andy",
+      "email": "Andy009@gamil.com",
+      "phone": "01299654738",
+      "address": "4366  Luke Lane, Ardmore",
+      "authentication_type": "password",
+      "authentication_value": "hashed password"
+    }
+  ],
+  "pictures": [
+    {
+      "id": 1,
+      "author": "Lisa",
+      "description": "A wonderful view of nature",
+      "img": "https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8V46UZCS0V.jpg",
+      "title": "A natural view"
+    }
+  ]
+}
